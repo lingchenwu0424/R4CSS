@@ -44,16 +44,16 @@ a*b
 ##  Install following packages **at home**
 * Remove comment `#` symbol to install new package
 ```{r install pkgs}
-# install.packages("jsonlite")
-# install.packages("httr")
+install.packages("jsonlite")
+install.packages("httr")
 ```
 
 ```{r install these pkgs at home}
-# install.packages("tidyverse")
-# install.packages("caret")
-# install.packages("jiebaR")
-# install.packages("topicmodels")
-# install.packages("stm")
+install.packages("tidyverse")
+install.packages("caret")
+install.packages("jiebaR")
+install.packages("topicmodels")
+install.packages("stm")
 ```
 
 
